@@ -1,55 +1,55 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
+  "title":"Você é realmente fã de Star Wars ?",
   "questions":[
     {
       "id":1,
-      "question": "Qual super poder você escolheria ?",
+      "question": "Qual jedi treinou Anakin Skywalker ?",
       "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+        {"id": 1, "name":"Obi-wan", "alias":"A"},
+        {"id": 2, "name":"Yoda", "alias":"B"},
+        {"id": 3, "name":"Ahsoka", "alias":"B"},
+        {"id": 4, "name":"R2D2", "alias":"B"},
+        {"id": 5, "name":"C3PO", "alias":"B"}
       ]
     },
     {
       "id":2,
-      "question": "Quem você salvaria primeiro ?",
+      "question": "Quem se tornou o Darth Vader ?",
       "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        {"id": 1, "name":"Luke Skywalker", "alias":"B"},
+        {"id": 2, "name":"Anakin Skywalker", "alias":"A"},
+        {"id": 3, "name":"Senador Palpatine", "alias":"B"}
       ]
     },
     {
       "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "question": "A que grupo pertence a frase 'Como Deve Ser'",
       "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+        {"id": 1, "name":"Jedis", "alias":"B"},
+        {"id": 2, "name":"Jawas", "alias":"B"},
+        {"id": 3, "name":"Mandalorianos", "alias":"A"},
+        {"id": 4, "name":"Stormtroopers", "alias":"B"}
       ]
     },
     {
       "id":4,
-      "question": "Qual o seu maior foco ?",
+      "question": "A princesa Léia era filha de quem",
       "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+        {"id": 1, "name":"Anakin Skywalker", "alias":"A"},
+        {"id": 2, "name":"Senador Organa", "alias":"B"}
       ]
     },
     {
       "id":5,
-      "question": "Qual o seu apelido de super ser ?",
+      "question": "A clone Omega fazia parte de qual grupo ?",
       "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 1, "name":"The Bad batch", "alias":"A"},
+        {"id": 2, "name":"Rebels", "alias":"B"}
       ]
     }
   ],
   "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+    "A": "Você realmente é um grande fã!",
+    "B": "Você não é tão fã assim!"
   }
 }
